@@ -1,0 +1,5 @@
+"main": "./dist/my-library.js",
+"types": "./dist/my-library.d.ts",
+"files": [
+    "dist"
+],
