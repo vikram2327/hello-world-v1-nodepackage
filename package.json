@@ -14,8 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git"
+    "url": "git+https://github.com/vikram2327/hello-world-v1-nodepackage.git"
   },
+  "bugs": {
+    "url": "https://github.com/vikram2327/hello-world-v1-nodepackage/issues"
+  },
+  "homepage": "https://github.com/vikram2327/hello-world-v1-nodepackage#readme",
   "keywords": [
     "hello"
   ],
